@@ -1,3 +1,6 @@
+
+
+
 <nav class="navbar d-flex align-items-center">
     <h1>Welcome to the Cities!</h1>
 </nav>
